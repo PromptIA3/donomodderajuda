@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/PromptIA3/donomodderajuda/main/S/install; chmod +x install; ./install
